@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Block.qml">../qml/Block.qml</file>
+        <file alias="Button.qml">../qml/Button.qml</file>
+        <file alias="Cell.qml">../qml/Cell.qml</file>
+        <file alias="HighScores.qml">../qml/HighScores.qml</file>
+        <file alias="main.qml">../qml/main.qml</file>
+        <file alias="Menu.qml">../qml/Menu.qml</file>
+        <file alias="NumberPad.qml">../qml/NumberPad.qml</file>
+        <file alias="SplashScreen.qml">../qml/SplashScreen.qml</file>
+        <file alias="View.qml">../qml/View.qml</file>
+        <file alias="WaitNote.qml">../qml/WaitNote.qml</file>
+        <file alias="WinNote.qml">../qml/WinNote.qml</file>
+        <file alias="dbHandling.js">../qml/dbHandling.js</file>
+        <file alias="gameLogic.js">../qml/gameLogic.js</file>
+        <file alias="gfx/background.png">../qml/gfx/background.png</file>
+        <file alias="gfx/brownGridItem.png">../qml/gfx/brownGridItem.png</file>
+        <file alias="gfx/darkGridItem.png">../qml/gfx/darkGridItem.png</file>
+        <file alias="gfx/empty.png">../qml/gfx/empty.png</file>
+        <file alias="gfx/lightGridItem.png">../qml/gfx/lightGridItem.png</file>
+        <file alias="gfx/logo.png">../qml/gfx/logo.png</file>
+        <file alias="gfx/move.png">../qml/gfx/move.png</file>
+        <file alias="gfx/statistic.png">../qml/gfx/statistic.png</file>
+        <file alias="gfx/time.png">../qml/gfx/time.png</file>
+        <file alias="gfx/waitNote.png">../qml/gfx/waitNote.png</file>
+    </qresource>
+</RCC>
