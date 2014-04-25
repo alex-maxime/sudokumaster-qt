@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2011 Nokia Corporation.
+ * Copyright (c) 2011-2014 Microsoft Mobile.
  */
 
 var _db = openDatabaseSync("SudokumasterDb", "0.1", "Sudokumaster database", 1000000);
